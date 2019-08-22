@@ -53,8 +53,8 @@ puts 'Enter starting year:'
 start_year = gets.chomp
 puts 'Enter ending year'
 ending_year = gets.chomp
-while start_year.to_i <= ending_year.to_i && start_year = start_year.to_i + 1
-  if(start_year % 4 == 0) && (start_year % 100 != 0) || (start_year % 400 == 0)
+while start_year.to_i <= ending_year.to_i && start_year == start_year.to_i + 1
+  if (start_year % 4 == 0) && (start_year % 100 != 0) || (start_year % 400 == 0)
     puts start_year.to_s + ' is a leap year'
   end
 end
