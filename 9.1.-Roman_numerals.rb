@@ -19,4 +19,4 @@ def roman_numerals num
   roman = roman + 'I' * (num % 5 / 1)
   roman
 end
-puts(roman_numerals(1992))
+puts(roman_numerals(4))
