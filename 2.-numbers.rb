@@ -9,6 +9,7 @@ puts 5 - 2
 
 # Multiplication
 puts 3 * 3
+puts 3 * 2.5
 
 # Division
 puts 9 / 3
