@@ -19,11 +19,11 @@ loop do
   # break unless words.last != ''
 end
 
-puts ''
+puts
 words.pop
 
 puts 'Your original array:'
 puts words
-puts ''
+puts
 puts 'Your array sorted alphabetically:'
 puts words.sort
