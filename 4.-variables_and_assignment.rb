@@ -5,7 +5,7 @@ puts my_string
 
 # Example 2
 composer = 'Mozart'
-puts composer + 'was "da bomb" in his day'
+puts composer + 'was "da bomb" in his day ;)'
 
 # Example 3
 my_own_var = 5 * (1 + 2)
