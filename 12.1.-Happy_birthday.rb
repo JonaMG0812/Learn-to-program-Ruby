@@ -10,7 +10,7 @@ puts 'Whose birthday would you like to know?'
 name = gets.chomp
 bday = birth_dates[name]
 if bday == nil
-puts "Oooh, I don't know that one..."
+puts "Oooh, I don't know that one... sorry :("
 else
   now = Time.new
   age = now.year - bday.year
