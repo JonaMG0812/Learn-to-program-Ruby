@@ -9,7 +9,8 @@ puts "beta  = #{beta}"
 puts "karma = #{karma}"
 
 # Example 2 - Time Class
-time = Time.new # The moment we ran this code. time2 = time + 60 # One minute later.
+time = Time.new # The moment we ran this code. time2 = time + 60
+# One minute later.
 time2 = time + 60 # One minute later
 puts time
 puts time2
@@ -24,7 +25,8 @@ puts
 # Exmple 3 - Hash Class
 dict_array = []
 dict_hash = {}
-# array literal; same as Array.new dict_hash = {} # hash literal; same as Hash.new
+# array literal; same as Array.new dict_hash = {}
+# hash literal; same as Hash.new
 dict_array[0] = 'candle'
 dict_array[1] = 'glasses'
 dict_array[2] = 'truck'
