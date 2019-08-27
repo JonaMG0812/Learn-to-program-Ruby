@@ -13,7 +13,7 @@ def ask_recursively question
   end
 end
 
-ask_recursively 'Do you wet the bed?'
+ask_recursively 'Do you wet the bed? :s'
 
 # Example 2
 def factorial num
