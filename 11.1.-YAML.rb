@@ -6,7 +6,7 @@ test_array = %w[Give\ Quiche\ A\ Chance Mutants\ Out!
 test_string = test_array.to_yaml
 # You see? Kind of like "to_s", and it is in fact a string,
 # but it's a YAML description of "test_array".
-filename = 'RimmerTShirts.txt'
+filename = 'Rimmer_TShirts.txt'
 File.open filename, 'w' do |f|
   f.write test_string
 end
