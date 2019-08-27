@@ -1,6 +1,6 @@
 # Letters
 # String Arithmetic
-puts 'I like ' + 'appel pie'
+puts 'I like ' + 'appel pie :)'
 
 # 12 vs '12'
 puts 12 + 12
