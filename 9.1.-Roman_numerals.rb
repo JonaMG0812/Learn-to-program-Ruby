@@ -20,3 +20,5 @@ def roman_numerals num
   roman
 end
 puts(roman_numerals(4))
+puts
+puts(roman_numerals(1992))
