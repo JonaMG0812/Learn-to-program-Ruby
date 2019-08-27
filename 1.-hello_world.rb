@@ -1,2 +1,2 @@
 # Hello world ruby
-puts 'Hello world Ruby'
+puts 'Hello world Ruby :)'
